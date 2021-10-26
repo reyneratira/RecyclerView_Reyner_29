@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerView_Reyner_29</string>
+    <string name="firearm_name">Firearm Name</string>
+    <string name="description">Description</string>
+    <string name="sejarah">Sejarah</string>
+</resources>
